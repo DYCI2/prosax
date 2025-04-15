@@ -15,13 +15,12 @@ Prosax needs no special installation; just follow these steps:
 - Unzip the extracted folder where you want
 - From 'Package Manager', in the Max app, (from Menu 'File") select 'Show Package Manager' and install "MuBu For MAx" package
   
-
 ## Getting Started
 The main Prosax application is the patch `prosax.maxpat`. You can open this patch from inside Max or directly from Finder.
 
 ## Documentation and Resources
 
-The documentation, including the manual, tutorials, and API, are [online here](https://repmus-docs.github.io/prosax/index.html)
+The PDF documentation, is inside the 'prosax' folder
 
 ## License
 
