@@ -20,7 +20,7 @@ The main Prosax application is the patch `prosax.maxpat`. You can open this patc
 
 ## Documentation and Resources
 
-The PDF documentation, is inside the 'prosax' folder
+The PDF documentation, is inside the 'prosax' release desired
 
 ## License
 
