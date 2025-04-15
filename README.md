@@ -11,7 +11,7 @@ Prosax provides prosodic analysis from a sound file, intended to be used with Om
 
 Prosax needs no special installation; just follow these steps:
 
-- Go to the [prosax releases]([https://github.com/prosax](https://github.com/DYCI2/prosax/releases)) and download the prosax folder.
+- Go to the [prosax releases](https://github.com/DYCI2/prosax/releases) and download the prosax folder.
 - Unzip the extracted folder where you want
 - From 'Package Manager', in the Max app, (from Menu 'File") select 'Show Package Manager' and install "MuBu For MAx" package
   
