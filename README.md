@@ -14,7 +14,7 @@ Prosax needs no special installation; just follow these steps:
 - Go to the [prosax releases](https://github.com/DYCI2/prosax/releases) and download the desired prosax release.
 - Unzip the extracted folder where you want
 - Open the Max app
-- From 'Package Manager', in the Max app, (from Menu 'File") select 'Show Package Manager' and install "MuBu For MAx" package.
+- From 'Package Manager', in the Max app, (from Menu 'File") select 'Show Package Manager' and install "MuBu For MAx" package, if is not already installed.
 - After the "MuBu For MAx" package installed, open the patch `prosax.maxpat`.
   
 ## Getting Started
