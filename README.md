@@ -3,7 +3,7 @@ Prosax provides prosodic analysis from a sound file, intended to be used with Om
 
 ## Requirements
 
-* macOS 10.13 or later 
+* macOS 15.1.1 or later (You can try with older versions at your own risk, but it has a chance of working.)
 * Max 8.5 or later
 * “MuBu For Max” package
 
